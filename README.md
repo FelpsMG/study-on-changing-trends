@@ -12,5 +12,5 @@ After acquiring the data obtained by RClimDex, the data is subjected to simplifi
 
 ## Warming Stripes Plot
 
-To plot the warming stripes, the data needs to be grouped annually with the data in https://drive.google.com/drive/folders/1a3V8w4RnPNCq3iWIMf_QEDYJUMUV_wdO?usp=sharing in folder "with Tmed", as is done in the file "groupData.m".
+To plot the warming stripes, the data needs to be grouped annually with the data in https://drive.google.com/drive/folders/1a3V8w4RnPNCq3iWIMf_QEDYJUMUV_wdO?usp=sharing , as is done in the file "groupData.m".
 To generate the warming stripes the script "script_to_PlotWarmingStripes.R" is used.
